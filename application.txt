@@ -1,0 +1,2 @@
+port=8080
+application.name=home-microservice
